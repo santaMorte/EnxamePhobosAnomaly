@@ -1,0 +1,6 @@
+F:\EnxamePhobosAnomaly\EnxamePhobosAnomaly\EnxamePhobosAnomaly.BLL\bin\Debug\EnxamePhobosAnomaly.BLL.dll
+F:\EnxamePhobosAnomaly\EnxamePhobosAnomaly\EnxamePhobosAnomaly.BLL\bin\Debug\EnxamePhobosAnomaly.BLL.pdb
+F:\EnxamePhobosAnomaly\EnxamePhobosAnomaly\EnxamePhobosAnomaly.BLL\obj\Debug\EnxamePhobosAnomaly.BLL.csproj.AssemblyReference.cache
+F:\EnxamePhobosAnomaly\EnxamePhobosAnomaly\EnxamePhobosAnomaly.BLL\obj\Debug\EnxamePhobosAnomaly.BLL.csproj.CoreCompileInputs.cache
+F:\EnxamePhobosAnomaly\EnxamePhobosAnomaly\EnxamePhobosAnomaly.BLL\obj\Debug\EnxamePhobosAnomaly.BLL.dll
+F:\EnxamePhobosAnomaly\EnxamePhobosAnomaly\EnxamePhobosAnomaly.BLL\obj\Debug\EnxamePhobosAnomaly.BLL.pdb
